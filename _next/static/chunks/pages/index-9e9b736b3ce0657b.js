@@ -920,7 +920,7 @@
                                     children:
                                         l < n
                                             ? (0, a.jsxs)(m.xu, { textAlign: "center", children: ["CLAIM COMING SOON, BE ON", " ", (0, a.jsx)(eJ.m.a, { as: eX(), href: "/claim", color: "yellow.500", children: "STANDBY" }), "!"] })
-                                            : (0, a.jsxs)(m.xu, { textAlign: "center", children: ["IT'S HERE,", " ", (0, a.jsx)(eJ.m.a, { as: eX(), href: "/claim", color: "yellow.500", children: "CLAIM YOUR MEME" })] }),
+                                            : (0, a.jsxs)(m.xu, { textAlign: "center", children: ["Join the ", " ", (0, a.jsx)(eJ.m.a, { as: eX(), href: "tglink", color: "blue.500", children: "STONKE Community" })] }),
                                 }),
                             }),
                             (0, a.jsx)(u.Z, {
@@ -3112,7 +3112,7 @@
                                             children:
                                                 N < M
                                                     ? (0, a.jsxs)(m.xu, { textAlign: "center", children: ["CLAIM COMING SOON, BE ON", " ", (0, a.jsx)(eJ.m.a, { as: eX(), href: "/claim", color: "yellow.500", children: "STANDBY" }), "!"] })
-                                                    : (0, a.jsxs)(m.xu, { textAlign: "center", children: ["IT'S HERE,", " ", (0, a.jsx)(eJ.m.a, { as: eX(), href: "/claim", color: "yellow.500", children: "" })] }),
+                                                    : (0, a.jsxs)(m.xu, { textAlign: "center", children: ["Join the", " ", (0, a.jsx)(eJ.m.a, { as: eX(), href: "tglink", color: "blue.500", children: " STONKE Community" })] }),
                                         }),
                                     }),
                                     (0, a.jsx)(u.Z, {
