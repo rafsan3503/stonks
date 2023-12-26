@@ -4833,7 +4833,7 @@
                 position: "absolute",
                 height: 300 * i,
                 width: 100 * s,
-                background: "linear-gradient(180deg, #4EA5D9 0%, #5CC0F6 "
+                background: "linear-gradient(180deg, #1e52eb 0%, #1b5bfa "
                   .concat(85 * i, "px, #295D88  ")
                   .concat(160 * i, "px, #18202E 100%)"),
               }),
